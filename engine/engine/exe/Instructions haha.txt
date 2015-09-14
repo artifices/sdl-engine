@@ -1,0 +1,4 @@
+Open engine.exe
+Move the dude around with arrows and if you do that with space bar it should run too...
+the walking is good even does it diagonally but the running is a bit buggy diagonally.
+You can't go off the screen either.
